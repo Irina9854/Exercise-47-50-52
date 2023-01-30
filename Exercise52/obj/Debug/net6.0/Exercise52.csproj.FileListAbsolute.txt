@@ -1,0 +1,15 @@
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\bin\Debug\net6.0\Exercise52.exe
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\bin\Debug\net6.0\Exercise52.deps.json
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\bin\Debug\net6.0\Exercise52.runtimeconfig.json
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\bin\Debug\net6.0\Exercise52.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\bin\Debug\net6.0\Exercise52.pdb
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\obj\Debug\net6.0\Exercise52.csproj.AssemblyReference.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\obj\Debug\net6.0\Exercise52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\obj\Debug\net6.0\Exercise52.AssemblyInfoInputs.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\obj\Debug\net6.0\Exercise52.AssemblyInfo.cs
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\obj\Debug\net6.0\Exercise52.csproj.CoreCompileInputs.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\obj\Debug\net6.0\Exercise52.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\obj\Debug\net6.0\refint\Exercise52.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\obj\Debug\net6.0\Exercise52.pdb
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\obj\Debug\net6.0\Exercise52.genruntimeconfig.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar7\Exercise52\obj\Debug\net6.0\ref\Exercise52.dll
